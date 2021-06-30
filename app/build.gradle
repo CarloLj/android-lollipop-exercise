@@ -30,4 +30,10 @@ dependencies {
     implementation "androidx.palette:palette:1.0.0"
     implementation "androidx.percentlayout:percentlayout:1.0.0"
 
+    //Add snackbar /  coordinator layout
+    implementation "com.google.android.material:material:1.1.0"
+
+    //Implement palette for bitmap
+    implementation "androidx.palette:palette:1.0.0"
+
 }
